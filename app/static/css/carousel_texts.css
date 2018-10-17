@@ -1,0 +1,10 @@
+.h1 {
+	text-shadow: 0 0 2px;
+}
+
+.p {
+	font-size: 34px; 
+	font-weight: bold; 
+	color: white; 
+	text-shadow: 7px 7px 10px black;
+}
